@@ -34,6 +34,7 @@
     "eslint-config-airbnb": "^9.0.0",
     "eslint-plugin-import": "^1.7.0",
     "eslint-plugin-react": "^5.0.1",
+    "gl-mat4": "^1.1.4",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.5.2"
   },
